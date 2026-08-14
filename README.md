@@ -32,7 +32,6 @@ Meu foco atual é fortalecer **lógica de programação**, **resolução de prob
 
 ---
 
----
 
 ### 🎓 Formação e certificações
 
