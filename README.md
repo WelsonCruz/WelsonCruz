@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Welson%20Ferreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Backend%20%26%20Dados&descSize=18&descAlignY=55&descColor=E0D7FF" alt="Banner"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudante-8A2BE2?style=flat-square&logoColor=white" alt="Estudante"/>
+  <img src="https://img.shields.io/badge/Faculdade%20Impacta-2028-6A11CB?style=flat-square" alt="Faculdade Impacta"/>
+  <img src="https://komarev.com/ghpvc/?username=WelsonCruz&label=Visualiza%C3%A7%C3%B5es&color=7F5AF0&style=flat-square" alt="Visualizações do perfil"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estudante-8A2BE2?style=flat-square&logoColor=white" alt="Estudante"/>
