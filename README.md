@@ -97,9 +97,10 @@ Projeto acadêmico desenvolvido em equipe para gerenciamento de livros, usuário
 - Empréstimos e reservas
 - Integração entre diferentes partes do sistema
 
-🔗[Repositório]([https://github.com/WelsonCruz/ControleDeGastos](https://github.com/RamonSousa04/POO-repository))
 
 `Java` `Spring Boot` `MySQL`
+
+🔗[Repositório](https://github.com/RamonSousa04/POO-repository)
 
 </td>
 </tr>
