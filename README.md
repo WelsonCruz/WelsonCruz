@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=C084FC&background=0D1117&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=150&lines=Welson+Ferreira;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+Backend+%26+Dados;Python+%7C+Java+%7C+SQL"
-    alt="Welson Ferreira - Backend e Dados"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=C084FC&background=0D1117&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=150&lines=Welson+Cruz;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+Backend+%26+Dados;Python+%7C+Java+%7C+SQL"
+    alt="Welson Cruz - Backend e Dados"
   />
 </p>
 
