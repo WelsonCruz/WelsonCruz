@@ -16,10 +16,6 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=welsonferreiracruz19@gmail.com">
     <img src="https://img.shields.io/badge/Email-2575FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/WelsonCruz">
-    <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
