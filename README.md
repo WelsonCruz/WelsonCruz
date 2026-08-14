@@ -1,36 +1,22 @@
 <p align="center">
-  <img 
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Welson%20Ferreira&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Backend%20%26%20Dados&descSize=18&descAlign=50&descAlignY=55"
-    alt="Welson Ferreira - Ciência da Computação | Backend & Dados"
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=C084FC&background=0D1117&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=150&lines=Welson+Ferreira;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+Backend+%26+Dados;Python+%7C+Java+%7C+SQL"
+    alt="Welson Ferreira - Backend e Dados"
   />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Backend+%7C+Dados+%7C+Desenvolvimento;Python+%7C+Java+%7C+SQL;Sempre+aprendendo+e+evoluindo"
-      alt="Typing SVG"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvimento+de+Software+%7C+Backend+%7C+Dados;Sempre+aprendendo+e+evoluindo"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudante-8A2BE2?style=flat-square&logoColor=white" alt="Estudante"/>
-  <img src="https://img.shields.io/badge/Ciência_da_Computação-6A11CB?style=flat-square" alt="Ciência da Computação"/>
-  <img src="https://img.shields.io/badge/Conclusão-2028-2575FC?style=flat-square" alt="Conclusão 2028"/>
-  <img src="https://komarev.com/ghpvc/?username=WelsonCruz&label=Visualizações&color=7F5AF0&style=flat-square" alt="Visualizações"/>
+  <img src="https://img.shields.io/badge/Estudante-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ciência_da_Computação-6A11CB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Conclusão-2028-2575FC?style=flat-square" />
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/welson-c-31619223a">
-    <img src="https://img.shields.io/badge/LinkedIn-6A11CB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:welsonferreiracruz19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2575FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
 
 ---
 
