@@ -14,11 +14,10 @@ Meu foco atual é fortalecer **lógica de programação**, **resolução de prob
 
 ### 🧠 O que estou estudando atualmente
 
-- Lógica de programação e resolução de problemas
-- Estruturas de dados e algoritmos
-- Programação Orientada a Objetos (POO)
-- Fundamentos de Banco de Dados (SQL / MySQL)
-- Fundamentos de Cloud Computing (AWS)
+- Análise Exploratória de Dados
+- Inteligência Computacional
+- Paradigmas de Programação
+- Teoria dos Grafos
 
 ---
 
