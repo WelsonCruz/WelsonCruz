@@ -23,7 +23,7 @@ Meu foco atual é fortalecer **lógica de programação**, **resolução de prob
 
 ### 🛠️ Tecnologias e ferramentas
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,html,css,mysql,aws,git,vscode" alt="Ícones de tecnologias"/>
 </p>
 
