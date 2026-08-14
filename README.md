@@ -10,15 +10,11 @@
 
 🧠 Atualmente focado em lógica de programação, desenvolvimento de software, algoritmos, banco de dados e resolução de problemas.
 
-🎯 Busco continuar evoluindo através de projetos, estudos e desafios práticos, com interesse em oportunidades nas áreas de Desenvolvimento de Software, Dados e Tecnologia.
+🎯 Busco continuar evoluindo através de projetos, estudos e desafios práticos, com interesse nas áreas de Desenvolvimento de Software, Dados e Tecnologia.
 
 🛠️ Tecnologias
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,vscode,aws" />
-
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,vscode,aws" /> </p>
 
 Principais conhecimentos
 🐍 Python
@@ -44,32 +40,32 @@ Neste perfil compartilho projetos e exercícios relacionados a:
 
 💻 Desenvolvimento em Python
 🧠 Lógica de programação
-📊 Algoritmos
+📊 Algoritmos e Estruturas de Dados
 🗄️ Banco de dados
 ☕ Programação Orientada a Objetos
 🎓 Projetos acadêmicos
-📊 GitHub
+📊 GitHub Stats
 
-<p align="center">
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=WelsonCruz&show_icons=true&locale=pt-br&hide_border=true" /> </p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&locale=pt-br&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&locale=pt-br&hide_border=true" />
-
-</p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelsonCruz&layout=compact&locale=pt-br&hide_border=true" /> </p>
 
 🏆 Formação e Certificações
-
 🎓 Ciência da Computação
-Faculdade Impacta — conclusão prevista para 2028
+
+Faculdade Impacta
+Conclusão prevista para 2028
 
 🎓 Técnico em Desenvolvimento de Sistemas
+
 Etec
 
 ☁️ AWS Academy Graduate – Cloud Foundations
+
 Amazon Web Services
 
 ☕ Introdução à Programação Orientada a Objetos
+
 Fundação Bradesco
 
 🤝 Soft Skills
@@ -82,11 +78,11 @@ Comunicação
 Adaptabilidade
 📫 Contato
 
-<p align="left">
+<p align="center">
 
-<a href="SEU_LINK_DO_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-Perfil_profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/welson-c-31619223a"> <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-<a href="mailto:welsonferreiracruz19@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="mailto:welsonferreiracruz19@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 </p>
 
