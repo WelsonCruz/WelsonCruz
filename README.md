@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudante-8A2BE2?style=flat-square&logoColor=white" alt="Estudante"/>
-  <img src="https://img.shields.io/badge/Faculdade%20Impacta-2028-6A11CB?style=flat-square" alt="Faculdade Impacta"/>
-  <img src="https://komarev.com/ghpvc/?username=WelsonCruz&label=Visualiza%C3%A7%C3%B5es&color=7F5AF0&style=flat-square" alt="Visualizações do perfil"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Interesse+em+Backend%2C+Dados+e+Software;Sempre+aprendendo+algo+novo" alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
