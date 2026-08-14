@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Welson%20Ferreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Backend%20%26%20Dados&descSize=18&descAlignY=55&descColor=E0D7FF" alt="Banner"/>
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Interesse+em+Backend%2C+Dados+e+Software;Sempre+aprendendo+algo+novo" alt="Typing SVG"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estudante-8A2BE2?style=flat-square&logoColor=white" alt="Estudante"/>
