@@ -33,12 +33,21 @@ Meu foco atual é fortalecer **lógica de programação**, **resolução de prob
 ---
 
 ### 📁 Projetos
+### 📁 Projetos
 
-> Em construção — projetos serão adicionados conforme forem desenvolvidos.
+**🎰 Máquina da Sorte — Jogo de Caça-Níquel**
+Jogo de caça-níquel desenvolvido em Python, com sistema de créditos, apostas e giros. Calcula ganhos e perdas automaticamente, aplica multiplicadores conforme os símbolos sorteados e exibe mensagens dinâmicas.
+`Python`
+🔗 [Repositório](https://github.com/WelsonCruz/jogo-caca-niquel)
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| _Em breve_ | _Em breve_ | _Em breve_ |
+**💰 Controle de Gastos**
+Sistema em Python para controle de gastos pessoais: cadastro, listagem e exclusão de despesas por categoria, cálculo de totais, geração de gráficos de pizza e definição de metas mensais. Conta com integração a um assistente financeiro baseado em IA para análises rápidas.
+`Python`
+🔗 [Repositório](https://github.com/WelsonCruz/ControleDeGastos)
+
+**📚 TCC — ETEC Desenvolvimento de Sistemas**
+Trabalho de Conclusão de Curso do técnico em Desenvolvimento de Sistemas na ETEC Parque da Juventude, avaliado com nota máxima pela banca. Projeto ainda em desenvolvimento, com foco em programação, modelagem de sistemas e boas práticas de código.
+🔗 [Repositório](https://github.com/WelsonCruz/TCC---ETEC-Desenvolvimento-de-Sistemas)
 
 ---
 
