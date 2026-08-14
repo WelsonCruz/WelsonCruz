@@ -63,8 +63,12 @@ Meu foco atual é fortalecer **lógica de programação**, **resolução de prob
 ### 📫 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/welson-c-31619223a">LinkedIn</a> ·
-  <a href="mailto:seu-email@exemplo.com">E-mail</a>
+  <a href="https://www.linkedin.com/in/welson-c-31619223a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:welsonferreiracruz19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 <p align="center">
