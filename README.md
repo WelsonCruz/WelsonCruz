@@ -1,26 +1,38 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Welson%20Ferreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Backend%20%26%20Dados&descSize=18&descAlignY=55&descColor=E0D7FF" alt="Banner"/>
+  <img 
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Welson%20Ferreira&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Backend%20%26%20Dados&descSize=18&descAlign=50&descAlignY=55"
+    alt="Welson Ferreira - Ciência da Computação | Backend & Dados"
+  />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Interesse+em+Backend%2C+Dados+e+Software;Sempre+aprendendo+algo+novo" alt="Typing SVG"/>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=650&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Backend+%7C+Dados+%7C+Desenvolvimento;Python+%7C+Java+%7C+SQL;Sempre+aprendendo+e+evoluindo"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estudante-8A2BE2?style=flat-square&logoColor=white" alt="Estudante"/>
-  <img src="https://img.shields.io/badge/Faculdade%20Impacta-2028-6A11CB?style=flat-square" alt="Faculdade Impacta"/>
-  <img src="https://komarev.com/ghpvc/?username=WelsonCruz&label=Visualiza%C3%A7%C3%B5es&color=7F5AF0&style=flat-square" alt="Visualizações do perfil"/>
+  <img src="https://img.shields.io/badge/Ciência_da_Computação-6A11CB?style=flat-square" alt="Ciência da Computação"/>
+  <img src="https://img.shields.io/badge/Conclusão-2028-2575FC?style=flat-square" alt="Conclusão 2028"/>
+  <img src="https://komarev.com/ghpvc/?username=WelsonCruz&label=Visualizações&color=7F5AF0&style=flat-square" alt="Visualizações"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/welson-c-31619223a">
     <img src="https://img.shields.io/badge/LinkedIn-6A11CB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=welsonferreiracruz19@gmail.com">
+  <a href="mailto:welsonferreiracruz19@gmail.com">
     <img src="https://img.shields.io/badge/Email-2575FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+---
+
 
 ---
 
