@@ -1,8 +1,30 @@
-<h1 align="center">Olá, eu sou o Welson 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=Welson%20Ferreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20Backend%20%26%20Dados&descSize=18&descAlignY=55&descColor=E0D7FF" alt="Banner"/>
+</p>
 
-<h3 align="center">
-  Ciência da Computação | Python • Java • SQL | Backend & Dados
-</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B983FF&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Interesse+em+Backend%2C+Dados+e+Software;Sempre+aprendendo+algo+novo" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudante-8A2BE2?style=flat-square&logoColor=white" alt="Estudante"/>
+  <img src="https://img.shields.io/badge/Faculdade%20Impacta-2028-6A11CB?style=flat-square" alt="Faculdade Impacta"/>
+  <img src="https://komarev.com/ghpvc/?username=WelsonCruz&label=Visualiza%C3%A7%C3%B5es&color=7F5AF0&style=flat-square" alt="Visualizações do perfil"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/welson-c-31619223a">
+    <img src="https://img.shields.io/badge/LinkedIn-6A11CB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=welsonferreiracruz19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2575FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/WelsonCruz">
+    <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
@@ -10,11 +32,11 @@
 
 Sou estudante de **Ciência da Computação na Faculdade Impacta**, com conclusão prevista para **2028**, e formado como **Técnico em Desenvolvimento de Sistemas pela Etec**.
 
-Tenho interesse em **Desenvolvimento de Software, Backend, Dados e Banco de Dados**, com conhecimentos em Python, Java, SQL, MySQL e fundamentos de desenvolvimento web e cloud.
+Tenho interesse em **Desenvolvimento de Software, Backend, Dados e Banco de Dados**, com conhecimentos em Python, SQL, MySQL, fundamentos de Java e de desenvolvimento web e cloud.
 
-Além da formação técnica, já possuo experiência profissional em empresas de tecnologia, como **Imovelweb e QuintoAndar**, onde desenvolvi habilidades de análise, resolução de problemas, comunicação e trabalho em equipe.
+Além da formação técnica, tenho experiência profissional em empresas de tecnologia, onde desenvolvi habilidades de análise, resolução de problemas, comunicação e trabalho em equipe.
 
-Atualmente busco fortalecer meus conhecimentos através da graduação e de projetos práticos, com o objetivo de conquistar uma oportunidade de estágio em tecnologia e evoluir como profissional.
+Atualmente busco fortalecer meus conhecimentos através da graduação e de projetos práticos, com o objetivo de conquistar uma oportunidade de **estágio em tecnologia** e evoluir como profissional.
 
 ---
 
@@ -24,121 +46,100 @@ Atualmente busco fortalecer meus conhecimentos através da graduação e de proj
   <img src="https://skillicons.dev/icons?i=py,java,mysql,html,css,aws,vscode" alt="Tecnologias e ferramentas"/>
 </p>
 
-#### Principais conhecimentos
+<details>
+<summary><b>Principais conhecimentos</b></summary>
+<br>
 
-* Python
-* Java
-* SQL
-* MySQL
-* HTML
-* CSS
-* Lógica de Programação
-* Programação Orientada a Objetos
-* Algoritmos e Estruturas de Dados
-* Banco de Dados
-* Fundamentos de Cloud Computing
+- Python
+- Java (fundamentos, em desenvolvimento)
+- SQL
+- MySQL
+- HTML
+- CSS
+- Lógica de Programação
+- Programação Orientada a Objetos
+- Algoritmos e Estruturas de Dados
+- Banco de Dados
+- Fundamentos de Cloud Computing (AWS)
+
+</details>
 
 ---
 
 ### 🚀 Projetos em destaque
 
-#### 💰 Controle de Despesas
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Projeto desenvolvido em **Python** com foco em lógica de programação, organização de dados e resolução de problemas.
+**💰 Controle de Despesas**
 
-Principais funcionalidades:
+Projeto em Python com foco em lógica de programação, organização de dados e resolução de problemas.
 
-* Cadastro de despesas
-* Organização por categorias
-* Definição de metas mensais
-* Validação de informações
-* Cálculo e acompanhamento de gastos
+- Cadastro de despesas
+- Organização por categorias
+- Definição de metas mensais
+- Validação de informações
+- Cálculo e acompanhamento de gastos
 
-**Tecnologia principal:** Python
+`Python`
+
+🔗 [Repositório](https://github.com/WelsonCruz/ControleDeGastos)
+
+</td>
+<td width="50%" valign="top">
+
+**📚 Sistema de Gerenciamento de Livros**
+
+Projeto acadêmico desenvolvido em equipe para gerenciamento de livros, usuários, empréstimos e reservas.
+
+- Cadastro e controle de usuários e livros
+- Empréstimos e reservas
+- Integração entre diferentes partes do sistema
+
+`Java` `Spring Boot` `MySQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
-#### 📚 Sistema de Gerenciamento de Livros
+### 🧠 Atualmente estudando
 
-Projeto acadêmico desenvolvido em equipe para criação de um sistema de gerenciamento de livros, usuários, empréstimos e reservas.
-
-Durante o desenvolvimento, tive contato com:
-
-* Java
-* Spring Boot
-* MySQL
-* Programação Orientada a Objetos
-* Banco de Dados
-* Desenvolvimento Web
-* Integração entre diferentes partes de um sistema
-
-**Tecnologias:** Java • Spring Boot • MySQL
-
----
-
-### 🧠 O que estou estudando atualmente
-
-* Análise Exploratória de Dados
-* Inteligência Computacional
-* Paradigmas de Programação
-* Teoria dos Grafos
+- Análise Exploratória de Dados
+- Inteligência Computacional
+- Paradigmas de Programação
+- Teoria dos Grafos
 
 ---
 
 ### 💼 Experiência profissional
 
-#### Analista de SAC — Imovelweb
+**Analista de SAC — Imovelweb** *(atual)*
+Atendimento ao cliente, análise de casos e acompanhamento de processos, desenvolvendo análise e resolução de problemas, comunicação e atenção aos detalhes.
 
-Atuação com atendimento ao cliente, análise de casos, acompanhamento de processos, registro de informações e resolução de diferentes demandas.
-
-A experiência vem contribuindo para o desenvolvimento de habilidades como:
-
-* Análise e resolução de problemas
-* Comunicação
-* Organização
-* Atenção aos detalhes
-* Trabalho em equipe
-* Adaptação a diferentes situações
-
-#### Operations Analyst / Jovem Aprendiz — QuintoAndar
-
-Atuação na área de Operações, realizando análise de informações relacionadas a vistorias de imóveis, identificação de divergências, validação de cobranças, acompanhamento de processos e atendimento ao cliente.
-
-A experiência fortaleceu minha capacidade de analisar informações, lidar com diferentes situações e buscar soluções de forma organizada e responsável.
-
----
-
-### 🎯 Diferenciais
-
-* Experiência profissional em empresas de tecnologia
-* Formação técnica em Desenvolvimento de Sistemas
-* Facilidade para aprender novas tecnologias
-* Raciocínio lógico e resolução de problemas
-* Experiência com projetos acadêmicos e pessoais
-* Interesse em Backend, Dados e Banco de Dados
-* Boa comunicação e trabalho em equipe
-* Perfil organizado e responsável
+**Operations Analyst / Jovem Aprendiz — QuintoAndar**
+Análise de informações de vistorias, identificação de divergências e acompanhamento de processos, fortalecendo organização e trabalho em equipe.
 
 ---
 
 ### 🎓 Formação e certificações
 
-* **Ciência da Computação** — Faculdade Impacta
-  *Cursando | Conclusão prevista para 2028*
-
-* **Técnico em Desenvolvimento de Sistemas** — Etec
-
-* **AWS Academy Graduate – Cloud Foundations** — AWS Academy
-
-* **Introdução à Programação Orientada a Objetos (POO)** — Fundação Bradesco
+| | |
+|---|---|
+| 🎓 **Ciência da Computação** | Faculdade Impacta · cursando, conclusão prevista para 2028 |
+| 🎓 **Técnico em Desenvolvimento de Sistemas** | Etec |
+| 📜 **AWS Academy Graduate – Cloud Foundations** | AWS Academy |
+| 📜 **Introdução à Programação Orientada a Objetos** | Fundação Bradesco |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=WelsonCruz&show_icons=true&theme=default&hide_title=false" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=WelsonCruz&layout=compact&theme=default" alt="Linguagens mais utilizadas" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=WelsonCruz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=WelsonCruz&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" height="165"/>
 </p>
 
 ---
@@ -147,16 +148,17 @@ A experiência fortaleceu minha capacidade de analisar informações, lidar com 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/welson-c-31619223a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-6A11CB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <a href="mailto:welsonferreiracruz19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=welsonferreiracruz19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2575FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
----
-
 <p align="center">
   <sub>Estudante de Ciência da Computação em constante evolução, com interesse em Backend, Dados e Desenvolvimento de Software.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575FC,100:6A11CB&height=120&section=footer" alt="Footer"/>
 </p>
