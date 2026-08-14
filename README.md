@@ -1,89 +1,80 @@
-👋 Olá, eu sou o Welson Ferreira!
-
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+em+formação;Python+%7C+SQL+%7C+Java;Lógica+%7C+Algoritmos+%7C+Desenvolvimento" /> </p>
-
-🚀 Sobre mim
-
-🎓 Estudante de Ciência da Computação na Faculdade Impacta, com conclusão prevista para 2028.
-
-💻 Formado como Técnico em Desenvolvimento de Sistemas pela Etec.
-
-🧠 Atualmente focado em lógica de programação, desenvolvimento de software, algoritmos, banco de dados e resolução de problemas.
-
-🎯 Busco continuar evoluindo através de projetos, estudos e desafios práticos, com interesse nas áreas de Desenvolvimento de Software, Dados e Tecnologia.
-
-🛠️ Tecnologias
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,vscode,aws" /> </p>
-
-Principais conhecimentos
-🐍 Python
-☕ Java — básico
-🗄️ SQL e MySQL
-🌐 HTML e CSS
-🧠 Lógica de Programação
-⚙️ Programação Orientada a Objetos
-📊 Algoritmos e Estruturas de Dados
-☁️ Fundamentos de AWS
-📚 Atualmente estudando
-foco_atual = [
-    "Python",
-    "Lógica de Programação",
-    "Algoritmos e Estruturas de Dados",
-    "Programação Orientada a Objetos",
-    "SQL",
-    "Desenvolvimento de Software"
-]
-📂 Projetos
-
-Neste perfil compartilho projetos e exercícios relacionados a:
-
-💻 Desenvolvimento em Python
-🧠 Lógica de programação
-📊 Algoritmos e Estruturas de Dados
-🗄️ Banco de dados
-☕ Programação Orientada a Objetos
-🎓 Projetos acadêmicos
-📊 GitHub Stats
-
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=WelsonCruz&show_icons=true&locale=pt-br&hide_border=true" /> </p>
-
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelsonCruz&layout=compact&locale=pt-br&hide_border=true" /> </p>
-
-🏆 Formação e Certificações
-🎓 Ciência da Computação
-
-Faculdade Impacta
-Conclusão prevista para 2028
-
-🎓 Técnico em Desenvolvimento de Sistemas
-
-Etec
-
-☁️ AWS Academy Graduate – Cloud Foundations
-
-Amazon Web Services
-
-☕ Introdução à Programação Orientada a Objetos
-
-Fundação Bradesco
-
-🤝 Soft Skills
-Resolução de problemas
-Raciocínio lógico
-Aprendizado rápido
-Trabalho em equipe
-Organização
-Comunicação
-Adaptabilidade
-📫 Contato
+<h1 align="center">Olá, eu sou o Welson 👋</h1>
+<h3 align="center">Estudante de Ciência da Computação | Foco em Backend, Dados e Lógica de Programação</h3>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/welson-c-31619223a"> <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
-<a href="mailto:welsonferreiracruz19@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-
+  <a href="https://www.linkedin.com/in/welson-c-31619223a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<p align="center"> <i>“Aprender programação é aprender a transformar problemas em soluções.”</i> </p>
+---
+
+### 📌 Sobre mim
+
+Sou estudante de Ciência da Computação na **Faculdade Impacta** (conclusão prevista para 2028) e Técnico em Desenvolvimento de Sistemas pela **Etec**. Estou em processo de aprendizado e evolução na área de tecnologia, com interesse principal em **Desenvolvimento de Software, Backend, Dados e Banco de Dados**.
+
+Meu foco atual é fortalecer **lógica de programação**, **resolução de problemas** e colocar em prática o que venho estudando através de pequenos projetos. Estou em busca de oportunidades de **estágio** para aplicar e desenvolver esses conhecimentos na prática.
+
+---
+
+### 🧠 O que estou estudando atualmente
+
+- Lógica de programação e resolução de problemas
+- Estruturas de dados e algoritmos
+- Programação Orientada a Objetos (POO)
+- Fundamentos de Banco de Dados (SQL / MySQL)
+- Fundamentos de Cloud Computing (AWS)
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,html,css,mysql,aws,git,vscode" alt="Ícones de tecnologias"/>
+</p>
+
+> Conhecimentos em desenvolvimento, incluindo lógica de programação, estruturas de dados, POO e fundamentos de banco de dados e cloud.
+
+---
+
+### 📁 Projetos
+
+> Em construção — projetos serão adicionados conforme forem desenvolvidos.
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| _Em breve_ | _Em breve_ | _Em breve_ |
+
+---
+
+### 🎓 Formação e certificações
+
+- **Ciência da Computação** — Faculdade Impacta *(cursando, previsão de conclusão em 2028)*
+- **Técnico em Desenvolvimento de Sistemas** — Etec
+- **AWS Academy Graduate – Cloud Foundations** — AWS Academy
+- **Introdução à Programação Orientada a Objetos** — Fundação Bradesco
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WelsonCruz&show_icons=true&theme=default&hide_title=false" alt="Estatísticas do GitHub" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelsonCruz&layout=compact&theme=default" alt="Linguagens mais utilizadas" height="165"/>
+</p>
+
+---
+
+### 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/welson-c-31619223a">LinkedIn</a> ·
+  <a href="mailto:seu-email@exemplo.com">E-mail</a>
+</p>
+
+<p align="center">
+  <sub>Estudante em constante evolução, aberto a oportunidades de estágio na área de tecnologia.</sub>
+</p>
