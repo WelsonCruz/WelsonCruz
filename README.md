@@ -62,8 +62,8 @@ Meu foco atual é fortalecer **lógica de programação**, **resolução de prob
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WelsonCruz&show_icons=true&theme=default&hide_title=false" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WelsonCruz&layout=compact&theme=default" alt="Linguagens mais utilizadas" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=WelsonCruz&show_icons=true&theme=default&hide_title=false" alt="Estatísticas do GitHub" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=WelsonCruz&layout=compact&theme=default" alt="Linguagens mais utilizadas" height="165"/>
 </p>
 
 ---
