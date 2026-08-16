@@ -83,14 +83,13 @@ Projeto em Python com foco em lógica de programação, organização de dados e
 
 **📚 Sistema de Gerenciamento de Livros**
 
-Projeto acadêmico desenvolvido em equipe para gerenciamento de livros, usuários, empréstimos e reservas.
+**Tomus** é um projeto acadêmico desenvolvido em conjunto com outros integrantes, com o objetivo de criar um sistema web voltado para o gerenciamento de uma biblioteca.
 
-- Cadastro e controle de usuários e livros
-- Empréstimos e reservas
-- Integração entre diferentes partes do sistema
+Durante o desenvolvimento, foram aplicados na prática conceitos de **Programação Orientada a Objetos, banco de dados, desenvolvimento web, organização de código e trabalho em equipe**, contribuindo para a experiência com o desenvolvimento de uma aplicação completa de forma colaborativa.
 
 
-`Java` `Spring Boot` `MySQL`
+
+`Java` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript` 
 
 🔗[Repositório](https://github.com/RamonSousa04/POO-repository)
 
