@@ -108,15 +108,17 @@ Durante o desenvolvimento, foram aplicados na prática conceitos de **Programaç
 
 ---
 
+
 ### 💼 Experiência profissional
 
-**Analista de SAC — Imovelweb** *(atual)*
-Atendimento ao cliente, análise de casos e acompanhamento de processos, desenvolvendo análise e resolução de problemas, comunicação e atenção aos detalhes.
+**Analista de SAC — Imovelweb** *(jan/2025 – out/2026)*  
+Atuação na análise de casos complexos, identificação de inconsistências, resolução de problemas e acompanhamento de solicitações. Contribuí para a melhoria de processos e me tornei referência para colegas pela facilidade de aprendizado, proatividade e comprometimento.
 
-**Operations Analyst / Jovem Aprendiz — QuintoAndar**
-Análise de informações de vistorias, identificação de divergências e acompanhamento de processos, fortalecendo organização e trabalho em equipe.
+**Operations Analyst / Jovem Aprendiz — QuintoAndar** *(jun/2023 – dez/2024)*  
+Atuação na análise de vistorias, validação de informações e cobranças, identificação de divergências e aplicação de regras de negócio. Destaque pela capacidade analítica, atenção aos detalhes, resolução de problemas e colaboração com a equipe.
 
 ---
+
 
 ### 🎓 Formação e certificações
 
