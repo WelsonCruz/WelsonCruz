@@ -35,7 +35,7 @@ Atualmente busco fortalecer meus conhecimentos através da graduação e de proj
 ### 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,mysql,html,css,aws,vscode" alt="Tecnologias e ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=py,java,c,spring,mysql,html,css,js,git,github,aws,vscode&perline=6" alt="Tecnologias e ferramentas"/>
 </p>
 
 <details>
